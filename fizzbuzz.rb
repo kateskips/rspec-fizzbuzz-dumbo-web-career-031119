@@ -16,7 +16,7 @@
     #return "Fizz"
   # (number % 5) == 0
   #elsif divisble?(number, 5)
-=======
+# =======
 # Takes the argument of a number and runs through to see if it is divisible by 3 & 5
 #def divisible?(number0, number1)
   
