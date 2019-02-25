@@ -10,17 +10,18 @@
 # Inputs: a number
 # Outputs:
 #   Returns a string when number0 is divisible by 3 and 5.
-def fizzbuzz(number)
+#def fizzbuzz(number)
   # (number % 3) == 0
-  if divisible?(number, 3)
-    return "Fizz"
+  #if divisible?(number, 3)
+    #return "Fizz"
   # (number % 5) == 0
-  elsif divisble?(number, 5)
+  #elsif divisble?(number, 5)
 =======
 # Takes the argument of a number and runs through to see if it is divisible by 3 & 5
-def divisible?(number0, number1)
+#def divisible?(number0, number1)
   
-end
+#end
+
 def fizzbuzz(number)
   if (number % 3 == 0 && number % 5 == 0)
     return "FizzBuzz"
